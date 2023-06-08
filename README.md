@@ -1,2 +1,2 @@
 # LargeNumberGoesHere's string utilities
-Just some custom helper methods and whatnot to make common string manipulation easier. Nothing too fancy
+Just some helper methods to make deal with strings a little nicer

@@ -1,0 +1,22 @@
+[package]
+name = "lngh_strings"
+version = "0.1.0"
+edition = "2021"
+include = [
+    "src/**/*",
+    "Cargo.toml",
+    "README.md",
+    "LICENCE"
+]
+homepage =  "" #A url
+description = "Largenumbergoeshere's string utilities"
+repository = "" #Github project url
+keywords =[ #Up to 5 categories
+    "string",
+    "utilities",
+    "helper"
+]
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

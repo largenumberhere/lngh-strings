@@ -1,0 +1,4 @@
+.*  #Exclude files starting with .
+!.gitignore #Except for gigignore
+
+/target

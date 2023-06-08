@@ -2,13 +2,13 @@
 name = "lngh_strings"
 version = "0.1.0"
 edition = "2021"
-include = [
-    "/src/**", #Include all files inside of root/src/
-    "Cargo.toml",
-    "Cargo.lock",
-    "README.md",
-    "LICENCE"
-]
+#include = [
+#    "/src/**", #Include all files inside of root/src/
+#    "Cargo.toml",
+#    "Cargo.lock",
+#    "README.md",
+#    "LICENCE"
+#]
 homepage =  "https://github.com/largenumberhere/lngh-strings" #A url
 description = "Largenumbergoeshere's string utilities"
 repository = "https://github.com/largenumberhere/lngh-strings" #Github project url

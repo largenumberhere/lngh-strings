@@ -1,2 +1,3 @@
 # LargeNumberGoesHere's string utilities
-Just some helper methods to make deal with strings a little nicer
+Just some small helper methods to make dealing with strings a little nicer.
+See [docs](https://docs.rs/lngh_strings/latest/lngh_strings/) for more detailed info!
